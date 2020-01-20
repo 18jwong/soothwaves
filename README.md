@@ -10,7 +10,7 @@ pip install midiutil
 
 ## Usage
 
-soothwaves.py <output_file_name> <number_of_notes>
+python soothwaves.py <output_file_name> <number_of_notes>
 
 ex: soothwaves.py myMidiFile.mid 30
 
